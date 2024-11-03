@@ -15,9 +15,9 @@
     }
   ],
   "dependencies": {
-    "modbus-esp8266": "4.1.0",
-    "TelnetStream": "1.2.5",
-    "Queue": "1.11"
+    "cgjgh/modbus-esp8266": "4.1.1",
+    "jandrassy/TelnetStream": "1.3.0",
+    "smfsw/Queue": "2.0"
   },
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32"]
