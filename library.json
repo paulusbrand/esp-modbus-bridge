@@ -15,7 +15,7 @@
     }
   ],
   "dependencies": {
-    "modbus-esp8266": "symlink://C:/Users/lucia/Documents/modbus-esp8266",
+    "modbus-esp8266": "4.1.0",
     "TelnetStream": "1.2.5",
     "Queue": "1.11"
   },
